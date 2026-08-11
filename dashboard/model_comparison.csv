@@ -1,0 +1,4 @@
+Model,Precision (Fraud),Recall (Fraud),F1 (Fraud)
+Logistic Regression,0.06,0.92,0.11
+Random Forest,0.92,0.81,0.86
+Random Forest + SMOTE,0.82,0.82,0.82

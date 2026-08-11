@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+
+# Data files (large, and shouldn't be redistributed from Kaggle)
+data/creditcard.csv
+data/fraud.db
+
+# Jupyter checkpoint files (auto-generated clutter)
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS-specific junk files
+.DS_Store
