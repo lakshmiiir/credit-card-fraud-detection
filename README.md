@@ -44,3 +44,6 @@ Python, pandas, scikit-learn, imbalanced-learn, matplotlib/seaborn, SQLite
 - `04_threshold_tuning.ipynb` — precision-recall tradeoff, final model, SQL queries
 
 See `memo.md` for a plain-language summary written for a non-technical audience.
+
+## Live Dashboard
+[View interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/lakshmi.ramesh2431/viz/CreditCardDetectionDashboard/Dashboard1)
